@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node /home/gustavo/trybe/masterProject/ecommerce/backEnd/server/index"
+    "start": "node /home/gustavo/trybe/eCommerce/ecommerce/backEnd/server"
   },
   "dependencies": {
     "cors": "^2.8.5",
